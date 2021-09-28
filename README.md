@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyazuki-00
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...azuki0917@icloud.com
 
